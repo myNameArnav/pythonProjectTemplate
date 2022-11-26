@@ -1,0 +1,4 @@
+# test*.py
+# .vscode
+__pylance__
+secret.py
